@@ -1,0 +1,21 @@
+C#  is a multi-paradigm programming language encompassing strong typing, imperative,
+	 declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. 
+	It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and 
+	ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure.
+
+C++  is a general-purpose programming language. It has imperative, object-oriented and generic programming features, 
+	while also providing facilities for low-level memory manipulation.It is designed with a bias toward system programming and embedded
+	 resource-constrained and large systems, with performance, efficiency and flexibility of use as its design highlights.
+
+Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed 
+	to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),
+	 meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+
+JavaScript  is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript
+	 language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production.
+
+Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, 
+	and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++, or Java.
+	The language provides constructs intended to enable clear programs on both a small and large scale.
+
+C++, Java and Python are similar to C# with that they are object-oriented languages,JavaScript uses Prototype-based programming that is a style of OOP.
